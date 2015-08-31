@@ -1,19 +1,18 @@
 # Bootstrap Meteor App
-
-meteor-platform
-autopublish
-insecure
-iron:router
-sacha:spin
-meteorhacks:fast-render
-fastclick
-fourseven:scss
-underscore
+#### meteor-platform
+#### autopublish
+#### insecure
+#### iron:router
+#### sacha:spin
+#### meteorhacks:fast-render
+#### fastclick
+#### fourseven:scss
+#### underscore
 
 ### Add For Mobile UI + Feel
-# zendy:velociratchet
-# simple:reactive-method
+#### zendy:velociratchet
+#### simple:reactive-method
 
 ### Add For Extra Functionality
-# momentjs:moment
-# u2622:persistent-session
+#### momentjs:moment
+#### u2622:persistent-session
