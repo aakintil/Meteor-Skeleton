@@ -1,4 +1,5 @@
 # Bootstrap Meteor App
+### Added Packages - feel free to remove any
 ##### meteor-platform
 ##### autopublish
 ##### insecure
